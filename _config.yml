@@ -21,7 +21,7 @@ locale                   : "UTF-8"
 title                    : "Study a programming"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "S2Onion"
 description              : "An amazing website."
 url                      : "https://s2onion.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "S2Onion"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I want to be **amazing** person."
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
